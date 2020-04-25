@@ -48,14 +48,14 @@ social_media:
 
 topics:
   - name: Passion
-    web_url: https://https://stratuscent.com/
+    web_url: https://stratuscent.com/
     image_url: https://pbs.twimg.com/profile_images/1214965323004338176/oPijMQrF_400x400.jpg
 
   - name: Patents
-    web_url: https://patents.google.com/?inventor=khomami+abadi
+    web_url: https://patents.google.com/?inventor=mojtaba+khomami+abadi
     image_url: https://static.scientificamerican.com/sciam/cache/file/987F7B3E-85C1-47D6-91416FCA62F71B37_source.jpg?w=590&h=800&BCC79672-80B4-48EE-88312A4341E6530E
 
-  - name: Google Scholar
+  - name: Publications
     web_url: https://scholar.google.it/citations?user=iMn11ZkAAAAJ&hl=en
     image_url: https://gcgosling.files.wordpress.com/2012/10/google-scholar-logo.png?w=256
 
